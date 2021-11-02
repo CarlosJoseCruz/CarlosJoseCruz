@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlosJoseCruz
 - 👀 Entoy interesado en el blockchain.
 - 🌱 Actualmente estoy aprendiendo GO y Dart.
-- 💞️ Soy un colaborador en Flexcomer Marketplace
+- 💞️ Soy un colaborador en Flexcomer Marketplace Lanzado para el 01/12/2021
 - 📫 How to reach me ...
 
 <!---
